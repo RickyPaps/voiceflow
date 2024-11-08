@@ -5,7 +5,7 @@
 
 .vfrc-proactive-message {
   opacity: 0 !important;
-  transition: opacity 0.3s ease-in-out;
+  transition: all 0.5s ease-in-out;
 }
 
 .vfrc-widget--launcher:hover .vfrc-proactive-message {
