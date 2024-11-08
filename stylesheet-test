@@ -1,0 +1,5 @@
+.vfrc-proactive-message {
+    background-color: #e93d3c; /* Green background */
+    color: #FFFF; /* White text */
+    display:none;
+  }
