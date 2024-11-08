@@ -4,7 +4,7 @@
   }
 
 .vfrc-proactive-message {
-  opacity: 0;
+  opacity: 0 !important;
   transition: opacity 0.3s ease-in-out;
 }
 
