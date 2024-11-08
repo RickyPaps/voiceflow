@@ -2,12 +2,3 @@
     background-color: #e93d3c; /* Green background */
     color: #FFFF; /* White text */
   }
-
-.vfrc-proactive-message {
-  opacity: 0 !important;
-  transition: all 0.5s ease-in-out;
-}
-
-.vfrc-launcher.c-bQoszf:hover .vfrc-proactive-message {
-  opacity: 1;
-}
