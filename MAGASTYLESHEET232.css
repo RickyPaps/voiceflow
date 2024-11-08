@@ -8,6 +8,6 @@
   transition: opacity 0.3s ease-in-out;
 }
 
-.vfrc-widget--launcher.c-PJLV:hover .vfrc-proactive-message {
+.vfrc-widget--launcher:hover .vfrc-proactive-message {
   opacity: 1;
 }
